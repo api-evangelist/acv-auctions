@@ -1,19 +1,44 @@
 aid: acv-auctions
 name: ACV Auctions
-description: 'ACV Auctions is a company surfaced as a portfolio company of bessemer-venture-partners and
-  added to the API Evangelist network as a stub for enrichment. Sector: vertical-software. This profile
-  is a lead awaiting the enrichment pipeline.'
+description: 'ACV Auctions is a digital wholesale marketplace for the automotive industry,
+  operating the leading online platform for dealer-to-dealer used-vehicle auctions
+  across the United States. Franchise and independent dealers source and sell inventory
+  through daily online auctions backed by third-party vehicle inspections, detailed
+  condition reports, and the company''s data and analytics products. ACV also offers
+  complementary services including vehicle transportation, dealer floor-plan financing
+  through ACV Capital, and inventory-management and pricing tools. The company is publicly
+  traded and headquartered in Buffalo, New York. It does not currently publish a public
+  developer API or developer portal; this profile captures its public identity and
+  security posture.'
 url: https://raw.githubusercontent.com/api-evangelist/acv-auctions/refs/heads/main/apis.yml
 x-type: company
 x-source: bessemer-venture-partners-portfolio
 x-tier: stub
 x-tier-reason: portfolio-lead
+accessModel:
+  pricing: unknown
+  onboarding: unknown
+  trial: false
+  try_now: false
+  public: false
+  label: Unknown
+  confidence: low
+  source: []
+  generated: '2026-07-22'
+  method: derived
 specificationVersion: '0.20'
 created: '2026-07-17'
-modified: '2026-07-17'
+modified: '2026-07-18'
+image: https://cdn.prod.website-files.com/61df0075e6ac6a4373114030/6214df2c7223d937aad401a3_Open%20Graph%20Image.jpg
 tags:
 - Company
 - Vertical Software
+- Automotive
+- Marketplace
+- Auctions
+- Used Vehicles
+- Wholesale
+- Dealer Services
 apis: []
 maintainers:
 - FN: Kin Lane
@@ -23,3 +48,22 @@ maintainers:
 common:
 - type: Website
   url: https://www.acvauctions.com
+- type: GitHubOrganization
+  url: https://github.com/acv-auctions
+- type: Login
+  url: https://app.acvauctions.com/login
+- type: Support
+  url: https://www.acvauctions.com/support
+- type: Blog
+  url: https://www.acvauctions.com/blog
+- type: TermsOfService
+  url: https://www.acvauctions.com/legal/terms-of-service
+- type: PrivacyPolicy
+  url: https://www.acvauctions.com/legal/privacy-policy
+- type: DomainSecurity
+  url: security/acv-auctions-domain-security.yml
+x-enrichment:
+  date: '2026-07-19'
+  status: backfilled
+  pass: local-v1
+  note: backfilled from .gitignore signal + verified work evidence
