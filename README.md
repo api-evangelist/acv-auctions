@@ -64,6 +64,84 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-ACV Auctions is a company surfaced as a portfolio company of bessemer-venture-partners and added to the API Evangelist network as a stub for enrichment. Sector: vertical-software. This profile is a lead awaiting the enrichment pipeline.
+ACV Auctions is a digital wholesale marketplace for the automotive industry, operating the leading online platform for dealer-to-dealer used-vehicle auctions across the United States. Franchise and independent dealers source and sell inventory through daily online auctions backed by third-party vehicle inspections, detailed condition reports, and the company's data and analytics products. ACV also offers complementary services including vehicle transportation, dealer floor-plan financing through ACV Capital, and inventory-management and pricing tools. The company is publicly traded and headquartered in Buffalo, New York. It does not currently publish a public developer API or developer portal; this profile captures its public identity and security posture.
 
-Source: portfolio company of [bessemer-venture-partners](https://github.com/api-evangelist/bessemer-venture-partners) — https://www.acvauctions.com
+**Areas:** Company · Vertical Software · Automotive · Marketplace · Auctions · Used Vehicles · Wholesale · Dealer Services
+
+## ACV Auctions on APIs.io
+
+Everything profiled for ACV Auctions is published on APIs.io rather than in this repository. Start at the provider page — **[apis.io/providers/acv-auctions/](https://apis.io/providers/acv-auctions/)** — or go straight to one of the APIs or properties below.
+
+### Published properties
+
+Each property below is a page on APIs.io carrying the machine-readable artifact and what it says.
+
+#### Security (1)
+
+Authentication, trust centre, and vulnerability disclosure.
+
+- [Acv Auctions Domain Security](https://apis.io/security/acv-auctions/acv-auctions-domain-security/)
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
+
+- [Website](https://www.acvauctions.com)
+- [Support](https://www.acvauctions.com/support)
+- [Blog](https://www.acvauctions.com/blog)
+- [Terms of service](https://www.acvauctions.com/legal/terms-of-service)
+- [Privacy policy](https://www.acvauctions.com/legal/privacy-policy)
+- [GitHub](https://github.com/acv-auctions)
+
+## API Evangelist rating
+
+**Kin Score 11.9** — emerging · rubric 0.24.0 · scored 2026-10-17
+
+| Facet | Score |
+|---|---|
+| Discoverability | 48.2 |
+| Contract quality | 0.0 |
+| Contract governance | 0.0 |
+| Operational transparency | 2.6 |
+| Developer ergonomics | 7.1 |
+| Access clarity | 27.6 |
+
+**Agent readiness 0.0** — human-only
+
+| Agent-readiness dimension | Result |
+|---|---|
+| Spec Presence | — |
+| Agentic Access | — |
+| Reversibility Documented | — |
+| MCP Server | — |
+| Auth Clarity | — |
+| Idempotency | — |
+| Error Semantics | — |
+| OpenAPI Examples | — |
+| Rate Limit Signal | — |
+| Event Surface Described | — |
+| Agent Skills | — |
+| Well Known Catalog | — |
+| Consent Identity | — |
+| Agent Card | — |
+| Dry Run Mode | — |
+| Delegated Identity | — |
+| Protected Resource Metadata | — |
+| Dynamic Client Registration | — |
+| Agentic Commerce | — |
+
+**Regulatory alignment 13.7** — Horizontal (data, software, accessibility, platform)
+
+The rubric is published at [github.com/api-evangelist/kin-score](https://github.com/api-evangelist/kin-score). The per-check breakdown behind these numbers — which checks were earned, partial or missed — along with score history and how this provider compares to its peers, is available at [apis.io/providers/acv-auctions/](https://apis.io/providers/acv-auctions/).
+
+## How this profile is made
+
+API Evangelist profiles a company's public API surface the way a developer would find it: the website, developer portal and documentation, the specifications it publishes, its public repositories, and its pricing, status and changelog pages. From that it derives the properties above — contracts split per API, workflows, schemas, collections, governance rules, plans and rate limits — and scores them against the published [Kin Score rubric](https://github.com/api-evangelist/kin-score).
+
+The artifacts are published on [APIs.io](https://apis.io), not in this repository. This repository is the public record for ACV Auctions: the place to say something is wrong, missing or out of date, and to ask for a re-score or a removal.
+
+## Open an issue
+
+- **Something about this listing** — a wrong description, a missing API, a stale artifact or a question about the rating: [open an issue on this repository](https://github.com/api-evangelist/acv-auctions/issues/new).
+- **A new API, or one that is not in the catalog yet** — [submit it on APIs.io](https://apis.io/add/).
+- **Anything else** — [the APIs.io inbox](https://github.com/api-search/inbox/issues/new) or [info@apievangelist.com](mailto:info@apievangelist.com).
