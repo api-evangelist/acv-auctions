@@ -72,21 +72,50 @@ ACV Auctions is a digital wholesale marketplace for the automotive industry, ope
 
 Everything profiled for ACV Auctions is published on APIs.io rather than in this repository. Start at the provider page — **[apis.io/providers/acv-auctions/](https://apis.io/providers/acv-auctions/)** — or go straight to one of the APIs or properties below.
 
+### APIs (1)
+
+- [Client Documentation Hub](https://apis.io/apis/acv-auctions/client-documentation-hub/) — API for the client documentation hub providing health endpoints.
+
 ### Published properties
 
 Each property below is a page on APIs.io carrying the machine-readable artifact and what it says.
+
+#### Agentic access (1)
+
+Which operations an agent can call, which act, and which need a human in the loop.
+
+- [ACV Auctions Agentic Access](https://apis.io/agentic-access/acv-auctions/acv-auctions-agentic-access/)
+
+#### JSON-LD (1)
+
+Linked-data contexts for the provider's vocabulary.
+
+- [Acv Auctions Context](https://apis.io/jsonld/acv-auctions/acv-auctions-context/)
+
+#### Overlays (1)
+
+OpenAPI overlays, including conversational phrasing for each operation.
+
+- [ACV Auctions Openapi Overlay](https://apis.io/overlays/acv-auctions/acv-auctions-openapi-overlay/)
+
+#### Governance rules (1)
+
+Spectral rulesets for the provider's contracts.
+
+- [ACV Auctions API Rules](https://apis.io/rules/acv-auctions/acv-auctions-rules/)
 
 #### Security (1)
 
 Authentication, trust centre, and vulnerability disclosure.
 
-- [Acv Auctions Domain Security](https://apis.io/security/acv-auctions/acv-auctions-domain-security/)
+- [ACV Auctions Domain Security](https://apis.io/security/acv-auctions/acv-auctions-domain-security/)
 
 ## Where to find this API
 
 Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
 
 - [Website](https://www.acvauctions.com)
+- [Pricing](https://www.acvauctions.com/pricing)
 - [Support](https://www.acvauctions.com/support)
 - [Blog](https://www.acvauctions.com/blog)
 - [Terms of service](https://www.acvauctions.com/legal/terms-of-service)
@@ -95,32 +124,32 @@ Links to the company's own pages. This repository publishes no copy of their spe
 
 ## API Evangelist rating
 
-**Kin Score 11.9** — emerging · rubric 0.24.0 · scored 2026-10-17
+**Kin Score 26.4** — thin · rubric 0.28.1 · scored 2026-11-21
 
 | Facet | Score |
 |---|---|
-| Discoverability | 48.2 |
-| Contract quality | 0.0 |
-| Contract governance | 0.0 |
-| Operational transparency | 2.6 |
-| Developer ergonomics | 7.1 |
-| Access clarity | 27.6 |
+| Discoverability | 60.7 |
+| Contract quality | 6.7 |
+| Contract governance | 22.0 |
+| Operational transparency | 4.8 |
+| Developer ergonomics | 27.9 |
+| Access clarity | 51.1 |
 
-**Agent readiness 0.0** — human-only
+**Agent readiness 5.6** — agent-aware
 
 | Agent-readiness dimension | Result |
 |---|---|
 | Spec Presence | — |
-| Agentic Access | — |
+| Agentic Access | derived (partial credit) |
 | Reversibility Documented | — |
 | MCP Server | — |
 | Auth Clarity | — |
 | Idempotency | — |
-| Error Semantics | — |
+| Error Semantics | derived (partial credit) |
 | OpenAPI Examples | — |
 | Rate Limit Signal | — |
 | Event Surface Described | — |
-| Agent Skills | — |
+| Agent Skills | unknown |
 | Well Known Catalog | — |
 | Consent Identity | — |
 | Agent Card | — |
@@ -129,8 +158,14 @@ Links to the company's own pages. This repository publishes no copy of their spe
 | Protected Resource Metadata | — |
 | Dynamic Client Registration | — |
 | Agentic Commerce | — |
+| Pagination Ratio | na |
+| Operation Distinctiveness | na |
+| MCP Tool Quality | na |
+| Onboarding Descriptor | — |
+| Dns Aid Index | na |
+| Markdown Negotiation | na |
 
-**Regulatory alignment 13.7** — Horizontal (data, software, accessibility, platform)
+**Regulatory alignment 12.7** — Horizontal (data, software, accessibility, platform)
 
 The rubric is published at [github.com/api-evangelist/kin-score](https://github.com/api-evangelist/kin-score). The per-check breakdown behind these numbers — which checks were earned, partial or missed — along with score history and how this provider compares to its peers, is available at [apis.io/providers/acv-auctions/](https://apis.io/providers/acv-auctions/).
 
